@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ts_portfolio/static/css/main.71eaebf9.css",
-    "main.js": "/ts_portfolio/static/js/main.49eb4e46.js",
+    "main.css": "/ts_portfolio/static/css/main.bf3232d9.css",
+    "main.js": "/ts_portfolio/static/js/main.de471209.js",
     "static/media/webserv.png": "/ts_portfolio/static/media/webserv.8c8b2ffedda2236d7969.png",
     "static/media/project1.png": "/ts_portfolio/static/media/project1.ede25cae0a2ed3bc3412.png",
     "static/media/hackatonNTX.png": "/ts_portfolio/static/media/hackatonNTX.64907b1bced24b92bb26.png",
@@ -14,11 +14,11 @@
     "static/media/unity2D.png": "/ts_portfolio/static/media/unity2D.a6a97966ef4ba4241b53.png",
     "static/media/react2.webp": "/ts_portfolio/static/media/react2.8aa659a4278a7132e6f4.webp",
     "index.html": "/ts_portfolio/index.html",
-    "main.71eaebf9.css.map": "/ts_portfolio/static/css/main.71eaebf9.css.map",
-    "main.49eb4e46.js.map": "/ts_portfolio/static/js/main.49eb4e46.js.map"
+    "main.bf3232d9.css.map": "/ts_portfolio/static/css/main.bf3232d9.css.map",
+    "main.de471209.js.map": "/ts_portfolio/static/js/main.de471209.js.map"
   },
   "entrypoints": [
-    "static/css/main.71eaebf9.css",
-    "static/js/main.49eb4e46.js"
+    "static/css/main.bf3232d9.css",
+    "static/js/main.de471209.js"
   ]
 }
