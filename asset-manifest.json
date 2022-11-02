@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ts_portfolio/static/css/main.71eaebf9.css",
+    "main.js": "/ts_portfolio/static/js/main.49eb4e46.js",
+    "static/media/webserv.png": "/ts_portfolio/static/media/webserv.8c8b2ffedda2236d7969.png",
+    "static/media/project1.png": "/ts_portfolio/static/media/project1.ede25cae0a2ed3bc3412.png",
+    "static/media/hackatonNTX.png": "/ts_portfolio/static/media/hackatonNTX.64907b1bced24b92bb26.png",
+    "static/media/intro-bg.jpg": "/ts_portfolio/static/media/intro-bg.cf2364827d8b8a98642e.jpg",
+    "static/media/trippy.png": "/ts_portfolio/static/media/trippy.de594cadd04adafdd70a.png",
+    "static/media/inception.png": "/ts_portfolio/static/media/inception.d95f9fe7c6ca4b55c365.png",
+    "static/media/react1.jpg": "/ts_portfolio/static/media/react1.d63ca3791694cd8f6f49.jpg",
+    "static/media/portfolio.png": "/ts_portfolio/static/media/portfolio.761f41a16b33b9a31e22.png",
+    "static/media/minishell.jpg": "/ts_portfolio/static/media/minishell.5cc1c622f17f5fe65300.jpg",
+    "static/media/unity2D.png": "/ts_portfolio/static/media/unity2D.a6a97966ef4ba4241b53.png",
+    "static/media/react2.webp": "/ts_portfolio/static/media/react2.8aa659a4278a7132e6f4.webp",
+    "index.html": "/ts_portfolio/index.html",
+    "main.71eaebf9.css.map": "/ts_portfolio/static/css/main.71eaebf9.css.map",
+    "main.49eb4e46.js.map": "/ts_portfolio/static/js/main.49eb4e46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71eaebf9.css",
+    "static/js/main.49eb4e46.js"
+  ]
+}
